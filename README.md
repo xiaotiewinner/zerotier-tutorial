@@ -4,7 +4,7 @@
 本文使用Zerotier，这个软件官方也提供免费通道，但是很不稳定，所以本文是自建Planet实现稳定的内网穿透。
 
 力求小白看了也能直接配好，每行要执行的代码前面会标注执行原因。但是你如果连怎么连接云服务器都不清楚的话，你需要先搜一下怎么SSH连接云服务器。
-
+https://www.xiaotiewinner.com/2025/vps-tuijian.html
 不知道选择什么样的云服务器合适？可以参阅我的另一篇文章：[VPS/云服务器的选择策略](https://www.cnblogs.com/xiaotie666/p/18926245/vps-tuijian "VPS/云服务器的选择策略")。
 
 感谢zerotier官方以及[docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet "docker-zerotier-planet")的作者[xubiaolin](https://github.com/xubiaolin "xubiaolin")。
